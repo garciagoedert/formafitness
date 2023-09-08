@@ -1,0 +1,27 @@
+<tr>
+                                    <td><small>horário</small></td>
+                                    <td>
+                                        <strong>segunda</strong>
+                                        <span>segunda</span>
+                                    </td>
+                                    <td>
+                                        <strong>terça</strong>
+                                        <span>terça</span>
+                                    </td>
+                                    <td>
+                                    <strong>quarta</strong>
+                                    <span>quarta</span>
+                                   </td>
+                                    <td>
+                                    <strong>quinta</strong>
+                                       <span>quinta</span>
+                                       </td>
+                                    <td>
+                                        <strong>sexta</strong>
+                                        <span>sexta</span>
+                                    </td>
+                                    <td>
+                                    <strong>sábado</strong>
+                                       <span>sábado</span>
+                                   </td>
+                                 </tr>
