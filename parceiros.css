@@ -49,3 +49,11 @@
   height: 100px;
   width: 250px;
 }
+@media (max-width: 767px) {
+  .slider {
+    width: 100%;
+  }
+  .slider .slide {
+    width: 100%;
+  }
+}
